@@ -55,7 +55,7 @@
 ## 👥 Authors & Affiliations
 
 * **Zerrin Dağlı** *(First & Corresponding Author)* — Mersin University, Mersin, Turkey • ORCID: [`0000-0001-9490-6425`](https://orcid.org/0000-0001-9490-6425) • SSRN: [`13656028`](https://ssrn.com/author=13656028)
-* **Volkan Dağlı** — Anadolu University, Eskişehir, Turkey & ITouch Systems, Cukurova University Science Park, Adana, Turkey • ORCID: [`0009-0000-1587-8703`](https://orcid.org/0009-0000-1587-8703) • SSRN: [`13655808`](https://ssrn.com/author=13655808) (`@pCwOrM`)
+* **Volkan Dağlı** — Anadolu University, Eskişehir, Turkey & ITouch Systems, Cukurova University Technopark, Adana, Turkey • ORCID: [`0009-0000-1587-8703`](https://orcid.org/0009-0000-1587-8703) • SSRN: [`13655808`](https://ssrn.com/author=13655808) (`@pCwOrM`)
 * **Dağhan Dağlı** — Toros University, Mersin, Turkey • ORCID: [`0009-0003-2492-8313`](https://orcid.org/0009-0003-2492-8313) • SSRN: [`13656048`](https://ssrn.com/author=13656048) (`@Lexovian`)
 
 ### 🌐 Companion Open-Science Corpus & Cross-Verification
